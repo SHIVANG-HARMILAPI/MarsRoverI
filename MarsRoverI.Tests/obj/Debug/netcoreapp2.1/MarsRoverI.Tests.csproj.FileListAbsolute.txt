@@ -1,0 +1,17 @@
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.Tests.deps.json
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.Tests.runtimeconfig.json
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.Tests.runtimeconfig.dev.json
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.Tests.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.csprojAssemblyReference.cache
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.AssemblyInfoInputs.cache
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.AssemblyInfo.cs
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.Tests.pdb
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\bin\Debug\netcoreapp2.1\MarsRoverI.pdb
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.csproj.CopyComplete
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.dll
+C:\Users\shharmilapi\source\repos\MarsRoverI\MarsRoverI.Tests\obj\Debug\netcoreapp2.1\MarsRoverI.Tests.pdb
